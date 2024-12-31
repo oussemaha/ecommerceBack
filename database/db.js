@@ -4,7 +4,7 @@ const mysql = require("mysql2");
 const connection = mysql.createConnection({
   host: "dbecommerce.cbxisoldayv6.us-east-1.rds.amazonaws.com",
   user: "admin",
-  password: "v.UK-W|OXzleMa)iG?1!!?j?WAdT",
+  password: "4wGuGHJE0OgS.aF>heVNgSuP!D9L",
   database: "ecommerce",
 });
 
